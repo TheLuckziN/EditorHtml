@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+C:\Users\lucas\Desktop\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+C:\Users\lucas\Desktop\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+C:\Users\lucas\Desktop\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+C:\Users\lucas\Desktop\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+C:\Users\lucas\Desktop\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
